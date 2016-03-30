@@ -1,0 +1,13 @@
+body {
+  background-color: #fdf;
+}
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  padding-left: 20px;
+  padding-top: 5vh;
+  padding-right: 20px;
+}
