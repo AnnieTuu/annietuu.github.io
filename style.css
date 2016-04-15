@@ -6,6 +6,13 @@ h1 {
   text-align: center;
 }
 
+h2, h3, h4, h5, h6 {
+  text-align: left;
+}
+p {
+  text-align: center;
+}
+
 .container {
   padding-left: 20px;
   padding-top: 5vh;
@@ -19,3 +26,11 @@ img {
 div .img {
   text-align: center;
 }
+
+
+
+div .topic{
+  padding-bottom: 5vh;
+  border:1px solid black;
+}
+
